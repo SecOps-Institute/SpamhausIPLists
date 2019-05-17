@@ -4,17 +4,17 @@
 
 The Spamhaus DROP (Don't Route Or Peer) lists are advisory "drop all traffic" lists, consisting of netblocks that are "hijacked" or leased by professional spam or cyber-crime operations (used for dissemination of malware, trojan downloaders, botnet controllers). The DROP lists are a tiny subset of the SBL, designed for use by firewalls and routing equipment to filter out the malicious traffic from these netblocks. 
 
-## Spamhaus Don't Route Or Peer List (DROP)
+## Spamhaus Don't Route Or Peer List (DROP)--> drop.txt
 
 The DROP list will not include any IP address space under the control of any legitimate network - even if being used by "the spammers from hell". DROP will only include netblocks allocated directly by an established Regional Internet Registry (RIR) or National Internet Registry (NIR) such as ARIN, RIPE, AFRINIC, APNIC, LACNIC or KRNIC or direct RIR allocations.
 
-## Spamhaus Extended DROP List (EDROP)
+## Spamhaus Extended DROP List (EDROP) --> edrop.txt
 EDROP is an extension of the DROP list that includes suballocated netblocks controlled by spammers or cyber criminals. EDROP is meant to be used in addition to the direct allocations on the DROP list.
 
-## Spamhaus IPv6 DROP List (DROPv6)
+## Spamhaus IPv6 DROP List (DROPv6) --> drop_ipv6.txt
 The DROPv6 list includes IPv6 ranges allocated to spammers or cyber criminals. DROPv6 will only include IPv6 netblocks allocated directly by an established Regional Internet Registry (RIR) or National Internet Registry (NIR) such as ARIN, RIPE, AFRINIC, APNIC, LACNIC or KRNIC or direct RIR allocations.
 
-## Spamhaus ASN DROP List (ASN-DROP) --> TO DO
+## Spamhaus ASN DROP List (ASN-DROP) --> asn_drop.txt
 ASN-DROP contains a list of Autonomous System Numbers controlled by spammers or cyber criminals, as well as "hijacked" ASNs. ASN-DROP can be used to filter BGP routes which are being used for malicious purposes. 
 
 ## Implementation
