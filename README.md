@@ -11,7 +11,7 @@ The DROP list will not include any IP address space under the control of any leg
 ## Spamhaus Extended DROP List (EDROP)
 EDROP is an extension of the DROP list that includes suballocated netblocks controlled by spammers or cyber criminals. EDROP is meant to be used in addition to the direct allocations on the DROP list.
 
-## Spamhaus IPv6 DROP List (DROPv6) --> TO DO
+## Spamhaus IPv6 DROP List (DROPv6)
 The DROPv6 list includes IPv6 ranges allocated to spammers or cyber criminals. DROPv6 will only include IPv6 netblocks allocated directly by an established Regional Internet Registry (RIR) or National Internet Registry (NIR) such as ARIN, RIPE, AFRINIC, APNIC, LACNIC or KRNIC or direct RIR allocations.
 
 ## Spamhaus ASN DROP List (ASN-DROP) --> TO DO
