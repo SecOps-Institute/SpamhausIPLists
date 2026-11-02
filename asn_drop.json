@@ -120,6 +120,7 @@
 {"asn":62380,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"BUNEA-HIGH-PEER-NETWORK"}
 {"asn":62864,"rir":"arin","domain":"netinnovation.net","cc":"JP","asname":"NILAS"}
 {"asn":63881,"rir":"apnic","domain":"medianetdigital.co","cc":"ID","asname":"MDI-AS-ID"}
+{"asn":64050,"rir":"apnic","domain":"bgp.net","cc":"SG","asname":"BGNL-HK"}
 {"asn":131388,"rir":"apnic","domain":"hts.vn","cc":"VN","asname":"HTS-AS-VN"}
 {"asn":131750,"rir":"apnic","domain":"sufia.tv","cc":"ID","asname":"SUFIANET-AS-ID"}
 {"asn":131831,"rir":"apnic","domain":"nexon.co.kr","cc":"KR","asname":"MNT-KRNIC-AP"}
@@ -409,7 +410,7 @@
 {"asn":218974,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"UFO-TECHNOLOGIES-LIMITED"}
 {"asn":218986,"rir":"ripencc","domain":"snowcore.io","cc":"GB","asname":"SnowcoreInc"}
 {"asn":219050,"rir":"ripencc","domain":"teraflow.co","cc":"US","asname":"TERAFLOW"}
-{"asn":219067,"rir":"ripencc","domain":"eggywall.org","cc":"IT","asname":"CHIARA-AS"}
+{"asn":219067,"rir":"ripencc","domain":"eggywall.org","cc":"IT","asname":"EGGYWALL"}
 {"asn":219199,"rir":"ripencc","domain":"genyus.sc","cc":"SC","asname":"GENYUS-AS"}
 {"asn":219326,"rir":"ripencc","domain":"sulavi.co.uk","cc":"GB","asname":"SULAVIL"}
 {"asn":219337,"rir":"ripencc","domain":"play2go.cloud","cc":"RU","asname":"PLAY2GO"}
@@ -446,4 +447,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1793639642,"size":39839,"records":448,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1793654042,"size":39914,"records":449,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
