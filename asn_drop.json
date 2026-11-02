@@ -408,6 +408,7 @@
 {"asn":218785,"rir":"ripencc","domain":"tcdatacenter.com","cc":"HK","asname":"TC-DATACENTER"}
 {"asn":218974,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"UFO-TECHNOLOGIES-LIMITED"}
 {"asn":218986,"rir":"ripencc","domain":"snowcore.io","cc":"GB","asname":"SnowcoreInc"}
+{"asn":219050,"rir":"ripencc","domain":"teraflow.co","cc":"US","asname":"TERAFLOW"}
 {"asn":219067,"rir":"ripencc","domain":"eggywall.org","cc":"IT","asname":"CHIARA-AS"}
 {"asn":219199,"rir":"ripencc","domain":"genyus.sc","cc":"SC","asname":"GENYUS-AS"}
 {"asn":219326,"rir":"ripencc","domain":"sulavi.co.uk","cc":"GB","asname":"SULAVIL"}
@@ -445,4 +446,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1793598242,"size":39755,"records":447,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1793639642,"size":39839,"records":448,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
