@@ -1,30 +1,62 @@
-# ![alt text](https://www.spamhaus.org/images/sh_logo2.jpg)
-# The Spamhaus Don't Route Or Peer Lists
-## Daily Checked and Updated
+# Spamhaus DROP Lists
 
-The Spamhaus DROP (Don't Route Or Peer) lists are advisory "drop all traffic" lists, consisting of netblocks that are "hijacked" or leased by professional spam or cyber-crime operations (used for dissemination of malware, trojan downloaders, botnet controllers). The DROP lists are a tiny subset of the SBL, designed for use by firewalls and routing equipment to filter out the malicious traffic from these netblocks.
+A mirror of the Spamhaus **DROP** ("Don't Route Or Peer") lists. These are netblocks and ASNs
+that are hijacked or leased by professional spam and cyber-crime operations: malware
+distribution, botnet controllers and the like. They are meant for firewalls and routers to drop
+all traffic to and from these networks.
 
-## Spamhaus ASN DROP List (ASN-DROP) --> asn_drop.txt
-ASN-DROP contains a list of Autonomous System Numbers controlled by spammers or cyber criminals, as well as "hijacked" ASNs. ASN-DROP can be used to filter BGP routes which are being used for malicious purposes. 
+## Files
 
-## Spamhaus Don't Route Or Peer List (DROP)--> drop.txt
+| File | Contents | Raw URL |
+|---|---|---|
+| `drop.txt` | DROP, IPv4 netblocks (includes the former EDROP) | https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/drop.txt |
+| `drop_ipv6.txt` | DROPv6, IPv6 netblocks | https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/drop_ipv6.txt |
+| `asn_drop.json` | ASN-DROP, malicious or hijacked ASNs | https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/asn_drop.json |
+| `edrop.txt` | Empty (see below), kept so existing links don't break | https://raw.githubusercontent.com/SecOps-Institute/SpamhausIPLists/master/edrop.txt |
+| `Last-Checked-At` | Time of the last successful check (IST) | |
 
-The DROP list will not include any IP address space under the control of any legitimate network - even if being used by "the spammers from hell". DROP will only include netblocks allocated directly by an established Regional Internet Registry (RIR) or National Internet Registry (NIR) such as ARIN, RIPE, AFRINIC, APNIC, LACNIC or KRNIC or direct RIR allocations.
+**Format of the `.txt` files:** one CIDR per line. Entries are normalized, deduplicated and
+sorted numerically, with Spamhaus's `; SBL…` reference comments removed.
 
-## Spamhaus IPv6 DROP List (DROPv6) --> drop_ipv6.txt
-The DROPv6 list includes IPv6 ranges allocated to spammers or cyber criminals. DROPv6 will only include IPv6 netblocks allocated directly by an established Regional Internet Registry (RIR) or National Internet Registry (NIR) such as ARIN, RIPE, AFRINIC, APNIC, LACNIC or KRNIC or direct RIR allocations.
+**Format of `asn_drop.json`:** Spamhaus's NDJSON, mirrored as-is. Each line is one object such as
+`{"asn":…, "rir":…, "domain":…, "cc":…, "asname":…}`, and the last line is a
+`{"type":"metadata",…}` record.
 
-## Spamhaus Extended DROP List (EDROP) --> edrop.txt
-EDROP is an extension of the DROP list that includes suballocated netblocks controlled by spammers or cyber criminals. EDROP is meant to be used in addition to the direct allocations on the DROP list.
+> **EDROP has been merged into DROP by Spamhaus.** `edrop.txt` is now empty, so use `drop.txt`.
+> The old `asn_drop.txt` has been removed; the ASN list is `asn_drop.json`.
 
-## Implementation
-When implemented at a network or ISP's 'core routers', the Spamhaus DROP lists will help protect the network's users from spamming, scanning, harvesting, DNS-hijacking and DDoS attacks originating on rogue netblocks.
+## How it is built
 
-Spamhaus strongly encourages the use of the DROP lists by tier-1s and backbones.
+- Source: https://www.spamhaus.org/drop/. The files are `drop.txt`, `dropv6.txt`, `edrop.txt`
+  and `asndrop.json`.
+- `asn_drop.json` is checked before publishing: every line must be valid JSON, and the number of
+  ASNs must match Spamhaus's own metadata count.
 
-Spamhaus DROP lists are available in text format. Additionally, these lists (as well as the Spamhaus Botnet C&C list) are available by [Spamhaus BGP Feed](https://www.spamhaus.org/bgpf/) announced via an Autonomous System Number (ASN). Users can choose to peer with that ASN to null those prefixes as being ranges for which they do not wish to route traffic.
+## Update schedule
 
-See the [DROP FAQ](https://www.spamhaus.org/faq/section/DROP%20FAQ) for information on use and implementation.
+**mirabot**, an automated bot, checks Spamhaus **every hour**:
+- `Last-Checked-At` is updated on every successful check.
+- The lists change only when Spamhaus changes them, so this repo's commit history doubles as a
+  change log.
 
-My Profile: https://www.linkedin.com/in/aarvee11
-My Blog: https://amisafe.secops.in
+Before publishing, the bot checks each update for problems: minimum size, malformed data, and
+any sudden drop of more than half the entries. If a check fails, the previous list stays in
+place. If `Last-Checked-At` is more than a few hours old, an update is being held back or the
+bot is down.
+
+## Using DROP
+
+Spamhaus recommends DROP for core routers and firewalls. It only lists address space that is
+allocated directly by a Regional Internet Registry and controlled by criminals, never a
+legitimate network's space. See the [DROP FAQ](https://www.spamhaus.org/faq/section/DROP%20FAQ).
+
+## License
+
+MIT for this repository's packaging. **The data belongs to The Spamhaus Project and is subject to
+the [Spamhaus DROP terms of use](https://www.spamhaus.org/drop/terms/).**
+
+---
+Updated hourly by **mirabot**, sponsored by [endlesstokens.ai](https://endlesstokens.ai) — *Pay for Time not Tokens*.
+
+Maintained by [SecOps Institute](https://github.com/SecOps-Institute) ·
+[LinkedIn](https://www.linkedin.com/in/aarvee11) · [Blog](https://amisafe.secops.in)
