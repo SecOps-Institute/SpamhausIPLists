@@ -124,6 +124,7 @@
 {"asn":131388,"rir":"apnic","domain":"hts.vn","cc":"VN","asname":"HTS-AS-VN"}
 {"asn":131750,"rir":"apnic","domain":"sufia.tv","cc":"ID","asname":"SUFIANET-AS-ID"}
 {"asn":131831,"rir":"apnic","domain":"nexon.co.kr","cc":"KR","asname":"MNT-KRNIC-AP"}
+{"asn":132359,"rir":"apnic","domain":"robitraders.com","cc":"BD","asname":"MSROBITRADERS-AS-AP"}
 {"asn":132574,"rir":"arin","domain":"alphainfolab.com","cc":"IN","asname":"AI-1720-132574"}
 {"asn":132827,"rir":"apnic","domain":"g-w.bz","cc":"JP","asname":"GATEWAY-AS-AP"}
 {"asn":132930,"rir":"apnic","domain":"herbalvedawellness.com","cc":"IN","asname":"HERBALVE-AS-IN"}
@@ -446,4 +447,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1793754842,"size":39825,"records":448,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1793808842,"size":39922,"records":449,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
