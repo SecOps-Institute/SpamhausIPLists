@@ -129,6 +129,7 @@
 {"asn":132827,"rir":"apnic","domain":"g-w.bz","cc":"JP","asname":"GATEWAY-AS-AP"}
 {"asn":132930,"rir":"apnic","domain":"herbalvedawellness.com","cc":"IN","asname":"HERBALVE-AS-IN"}
 {"asn":133320,"rir":"apnic","domain":"alphainfolab.com","cc":"IN","asname":"ALPHA-AS-AP"}
+{"asn":133398,"rir":"apnic","domain":"tele-asia.net","cc":"HK","asname":"TELE-AS"}
 {"asn":133488,"rir":"apnic","domain":"servicehk.net","cc":"HK","asname":"SERVICE-AS-AP"}
 {"asn":133668,"rir":"apnic","domain":"eikontech.net","cc":"IN","asname":"INFOBB-AS-IN"}
 {"asn":133692,"rir":"apnic","domain":"fastnetcpl.com","cc":"IN","asname":"Fastnet-AS-IN"}
@@ -139,6 +140,7 @@
 {"asn":134196,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"ANYUN-INTERNET-TECHNOLOGY-HK-CO-LIMITED"}
 {"asn":135271,"rir":"apnic","domain":"globtelgroup.com","cc":"US","asname":"GLOBTELGROUP-AS-AP"}
 {"asn":135388,"rir":"apnic","domain":"serveroffer.lt","cc":"LT","asname":"RPL-HK"}
+{"asn":135392,"rir":"apnic","domain":"tele-asia.net","cc":"HK","asname":"MILLENIALHOSTLIMITED-AS-GB"}
 {"asn":135752,"rir":"apnic","domain":"evokedigital.in","cc":"IN","asname":"EVOKEDS-AS"}
 {"asn":136250,"rir":"apnic","domain":"zqhwl-cn","cc":"CN","asname":"ZQHWL-AS-AP"}
 {"asn":136367,"rir":"apnic","domain":"herbzoothealthcare.co.in","cc":"IN","asname":"HERBZOOT-AS-IN"}
@@ -447,4 +449,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1793808842,"size":39922,"records":449,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1793830442,"size":40107,"records":451,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
