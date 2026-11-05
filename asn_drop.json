@@ -396,6 +396,7 @@
 {"asn":215460,"rir":"ripencc","domain":"infiniroute.io","cc":"US","asname":"FELCLOUD"}
 {"asn":215474,"rir":"ripencc","domain":"biil.ru","cc":"GB","asname":"BIIL-RU-AS"}
 {"asn":215540,"rir":"ripencc","domain":"globconnex.com","cc":"RU","asname":"GCS-AS"}
+{"asn":215590,"rir":"ripencc","domain":"dpkgsoft.ru","cc":"RU","asname":"XORA-AS"}
 {"asn":215730,"rir":"ripencc","domain":"h2.nexus","cc":"UA","asname":"H2NEXUS-AS"}
 {"asn":215731,"rir":"ripencc","domain":"novuslabslimited.com","cc":"US","asname":"NovusLabs"}
 {"asn":215765,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"RADIO-LINK-SMART"}
@@ -450,4 +451,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1793882642,"size":40202,"records":452,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1793893442,"size":40285,"records":453,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
