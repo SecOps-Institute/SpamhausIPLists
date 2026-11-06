@@ -428,6 +428,7 @@
 {"asn":328958,"rir":"afrinic","domain":"cybrscrb.com","cc":"SC","asname":"CL21-AS"}
 {"asn":329007,"rir":"afrinic","domain":"elende.ao","cc":"AO","asname":"ELENDE"}
 {"asn":394082,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"GOOGLE-PEER"}
+{"asn":397081,"rir":"arin","domain":"valkyrie-hosting.net","cc":"US","asname":"VALKYRIE-HOSTING"}
 {"asn":397881,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"STINGERS"}
 {"asn":398638,"rir":"arin","domain":"jellydigital.net","cc":"US","asname":"JELLYDIGITAL"}
 {"asn":398741,"rir":"arin","domain":"62yun.com","cc":"RU","asname":"AS-VERTEXLINK-01"}
@@ -451,4 +452,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1793893442,"size":40285,"records":453,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1793979842,"size":40383,"records":454,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
