@@ -33,7 +33,6 @@
 {"asn":26561,"rir":"arin","domain":"mylir.co.uk","cc":"GB","asname":"NETRIDGE"}
 {"asn":26833,"rir":"arin","domain":"quarterhill.com","cc":"US","asname":"ETCC"}
 {"asn":30490,"rir":"arin","domain":"ethr.net","cc":"US","asname":"ETHRN"}
-{"asn":31561,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"NINE-IX"}
 {"asn":33042,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
 {"asn":33993,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"UFO-AS"}
 {"asn":34450,"rir":"ripencc","domain":"net-gate.ro","cc":"RO","asname":"WDC-AS"}
@@ -452,4 +451,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1794273242,"size":40384,"records":454,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1794416204,"size":40302,"records":453,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
