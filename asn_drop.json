@@ -405,6 +405,7 @@
 {"asn":216246,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"RU-AEZA-AS"}
 {"asn":216378,"rir":"ripencc","domain":"net-gate.ro","cc":"RO","asname":"NETGATE-COMUNICATIONS-AS"}
 {"asn":216475,"rir":"ripencc","domain":"nktele.com","cc":"RU","asname":"nktelecom"}
+{"asn":218219,"rir":"ripencc","domain":"darkvps.pro","cc":"BG","asname":"Denev"}
 {"asn":218731,"rir":"ripencc","domain":"qwins.co","cc":"EE","asname":"Andris-Jakovlevs"}
 {"asn":218732,"rir":"ripencc","domain":"rapidoserver.com","cc":"IR","asname":"rapidoserver"}
 {"asn":218785,"rir":"ripencc","domain":"tcdatacenter.com","cc":"HK","asname":"TC-DATACENTER"}
@@ -451,4 +452,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1794416204,"size":40302,"records":453,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1794571004,"size":40383,"records":454,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
