@@ -425,7 +425,7 @@
 {"asn":327837,"rir":"afrinic","domain":"seyix.sc","cc":"SC","asname":"SEY-IX-MANAGEMENT"}
 {"asn":327952,"rir":"afrinic","domain":"ntel.com.ng","cc":"NG","asname":"AS-NATCOM"}
 {"asn":328095,"rir":"afrinic","domain":"bluegate-exchange.co.za","cc":"ZA","asname":"BLUEGATE-EXCHANGE-AS"}
-{"asn":328819,"rir":"afrinic","domain":"bluecentrix.co.za","cc":"ZA","asname":"BPL-AS"}
+{"asn":328819,"rir":"afrinic","domain":"bluecentrix.co.za","cc":"ZA","asname":"UNKNOWN"}
 {"asn":328958,"rir":"afrinic","domain":"cybrscrb.com","cc":"SC","asname":"CL21-AS"}
 {"asn":329007,"rir":"afrinic","domain":"elende.ao","cc":"AO","asname":"ELENDE"}
 {"asn":394082,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"GOOGLE-PEER"}
@@ -453,4 +453,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1794578204,"size":40474,"records":455,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1794607004,"size":40475,"records":455,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
