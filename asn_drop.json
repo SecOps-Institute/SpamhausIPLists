@@ -419,6 +419,7 @@
 {"asn":219326,"rir":"ripencc","domain":"sulavi.co.uk","cc":"GB","asname":"SULAVIL"}
 {"asn":219337,"rir":"ripencc","domain":"play2go.cloud","cc":"RU","asname":"PLAY2GO"}
 {"asn":219502,"rir":"ripencc","domain":"stormindustries.llc","cc":"US","asname":"STORMCLOUD-AS"}
+{"asn":219509,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"PRIVATESECTOR-AS"}
 {"asn":266702,"rir":"lacnic","domain":"nodonorte.net.ar","cc":"AR","asname":"MEGALINK_S.R.L."}
 {"asn":266724,"rir":"lacnic","domain":"donserver.cl","cc":"CL","asname":"MYRIAM_PILAR_ESCOBAR_VEGA_(DON_SERVER)"}
 {"asn":327837,"rir":"afrinic","domain":"seyix.sc","cc":"SC","asname":"SEY-IX-MANAGEMENT"}
@@ -452,4 +453,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1794571004,"size":40383,"records":454,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1794578204,"size":40474,"records":455,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
