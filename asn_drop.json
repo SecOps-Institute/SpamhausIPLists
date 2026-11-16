@@ -213,7 +213,7 @@
 {"asn":198071,"rir":"ripencc","domain":"berch.co.uk","cc":"GB","asname":"BERCHSOLUTIONS-AS"}
 {"asn":198189,"rir":"ripencc","domain":"stealthvm.net","cc":"GB","asname":"STEALTHVM"}
 {"asn":198571,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"PlainProxies"}
-{"asn":198926,"rir":"ripencc","domain":"rapidoserver.com","cc":"IR","asname":"Fazed"}
+{"asn":198926,"rir":"ripencc","domain":"rapidoserver.com","cc":"IR","asname":"Fazel"}
 {"asn":198953,"rir":"ripencc","domain":"proton66.ru","cc":"RU","asname":"proton66"}
 {"asn":198981,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"NETSHIELD-BYOIP"}
 {"asn":199420,"rir":"ripencc","domain":"fly-group.ru","cc":"RU","asname":"FLYGROUP-AS"}
@@ -451,4 +451,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1794823004,"size":40304,"records":453,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1794862604,"size":40304,"records":453,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
