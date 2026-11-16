@@ -401,7 +401,6 @@
 {"asn":215925,"rir":"ripencc","domain":"vpsvault.host","cc":"GB","asname":"VPSVAULTHOST"}
 {"asn":215930,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"COD"}
 {"asn":216078,"rir":"ripencc","domain":"snowcore.io","cc":"GB","asname":"KREMER-AS"}
-{"asn":216127,"rir":"ripencc","domain":"nuxt.cloud","cc":"RU","asname":"NUXT-AS"}
 {"asn":216246,"rir":"ripencc","domain":"aeza.net","cc":"RU","asname":"RU-AEZA-AS"}
 {"asn":216378,"rir":"ripencc","domain":"net-gate.ro","cc":"RO","asname":"NETGATE-COMUNICATIONS-AS"}
 {"asn":216475,"rir":"ripencc","domain":"nktele.com","cc":"RU","asname":"nktelecom"}
@@ -452,4 +451,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1794729404,"size":40386,"records":454,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1794823004,"size":40304,"records":453,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
