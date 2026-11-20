@@ -283,7 +283,6 @@
 {"asn":206340,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"AMPERAURA-AS"}
 {"asn":206378,"rir":"ripencc","domain":"zerolimit-servers.cool","cc":"MD","asname":"STOLITOMSON-AS"}
 {"asn":206413,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
-{"asn":206479,"rir":"ripencc","domain":"acerdp.io","cc":"RO","asname":"AceRDP"}
 {"asn":206535,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":206560,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":206582,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
@@ -377,7 +376,6 @@
 {"asn":213921,"rir":"ripencc","domain":"davidascottmotorsltd","cc":"GB","asname":"DA-MOTORS-AS"}
 {"asn":213995,"rir":"ripencc","domain":"frostyhosting","cc":"RU","asname":"FROSTYHOSTING-AS"}
 {"asn":213999,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"THE-CLIENTS"}
-{"asn":214018,"rir":"ripencc","domain":"intintell.co.uk","cc":"GB","asname":"IIC-AS"}
 {"asn":214351,"rir":"ripencc","domain":"as214351.com","cc":"GB","asname":"DEAVAU"}
 {"asn":214357,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"First-Host"}
 {"asn":214422,"rir":"ripencc","domain":"qwins.co","cc":"EE","asname":"NET67X"}
@@ -454,4 +452,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1795039004,"size":40561,"records":456,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1795139804,"size":40395,"records":454,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
