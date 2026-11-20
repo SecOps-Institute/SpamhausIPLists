@@ -192,6 +192,7 @@
 {"asn":150100,"rir":"apnic","domain":"arkcomtele.com","cc":"IN","asname":"ARKCOM-AS-IN"}
 {"asn":150101,"rir":"apnic","domain":"ithostline.com","cc":"IN","asname":"YASHITS-AS-IN"}
 {"asn":150102,"rir":"apnic","domain":"ithostline.com","cc":"IN","asname":"ITSERVICE-AS-IN"}
+{"asn":150303,"rir":"apnic","domain":"solordp.com","cc":"IN","asname":"SOLORDP-AS-AP"}
 {"asn":150604,"rir":"apnic","domain":"globalsol.co.in","cc":"IN","asname":"GLOBALSOL-AS-IN"}
 {"asn":150813,"rir":"apnic","domain":"thoimmo.com","cc":"VN","asname":"MINHTHOIPC-VN"}
 {"asn":150860,"rir":"apnic","domain":"jetcloud.vn","cc":"VN","asname":"JETCLOUD-VN"}
@@ -452,4 +453,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1795139804,"size":40395,"records":454,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1795172204,"size":40482,"records":455,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
