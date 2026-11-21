@@ -151,6 +151,8 @@
 {"asn":138808,"rir":"apnic","domain":"intechmandiri.com","cc":"ID","asname":"INTECHMANDIRI-AS-ID"}
 {"asn":138915,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"KAOPU-HK"}
 {"asn":138968,"rir":"apnic","domain":"itsidc.com","cc":"HK","asname":"RAINBOWIDC-AS-AP"}
+{"asn":138995,"rir":"apnic","domain":"antboxnetwork.com","cc":"HK","asname":"ANTBOX1-AS-AP"}
+{"asn":139638,"rir":"apnic","domain":"antboxnetwork.com","cc":"HK","asname":"ANTBOX1-AS-AP"}
 {"asn":140125,"rir":"apnic","domain":"cyberauticssoftwares.co.in","cc":"IN","asname":"CYBERAUTICS-AS-IN"}
 {"asn":140129,"rir":"apnic","domain":"mabasafenet.com","cc":"IN","asname":"MSBSPL-AS-IN"}
 {"asn":140155,"rir":"apnic","domain":"thepinnaclegroup.in","cc":"IN","asname":"HOSTNET-AS-IN"}
@@ -454,4 +456,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1795201004,"size":40568,"records":456,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1795264004,"size":40754,"records":458,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
