@@ -209,6 +209,7 @@
 {"asn":152486,"rir":"apnic","domain":"jdmbroadband.com","cc":"IN","asname":"NTSHIELD-AS-IN"}
 {"asn":154177,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"LIGHT4-AS-AP"}
 {"asn":154206,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CDN1COM-AS-AP"}
+{"asn":155037,"rir":"apnic","domain":"techmoved.com","cc":"BD","asname":"TECHMOVED-AS-AP"}
 {"asn":197170,"rir":"ripencc","domain":"hostslick.de","cc":"DE","asname":"TECHTIES-AS"}
 {"asn":197176,"rir":"ripencc","domain":"kyliecdn","cc":"CN","asname":"KylieCDN-AS"}
 {"asn":197283,"rir":"ripencc","domain":"powerrdp.pro","cc":"UA","asname":"PowerRDP-Network-AS"}
@@ -457,4 +458,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1795363004,"size":40867,"records":459,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1795429604,"size":40958,"records":460,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
