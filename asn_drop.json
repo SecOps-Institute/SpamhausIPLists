@@ -384,6 +384,7 @@
 {"asn":214351,"rir":"ripencc","domain":"as214351.com","cc":"GB","asname":"DEAVAU"}
 {"asn":214357,"rir":"ripencc","domain":"almaseabi.net","cc":"IR","asname":"First-Host"}
 {"asn":214422,"rir":"ripencc","domain":"qwins.co","cc":"EE","asname":"NET67X"}
+{"asn":214432,"rir":"ripencc","domain":"zlidc.net","cc":"CN","asname":"NTT-Communications-Corporation"}
 {"asn":214497,"rir":"ripencc","domain":"whitelabel.sh","cc":"IL","asname":"WHITELABEL"}
 {"asn":214576,"rir":"ripencc","domain":"berdiev-ruslan-mukhabatovich","cc":"RU","asname":"BRM5-AS"}
 {"asn":214927,"rir":"ripencc","domain":"psb.hosting","cc":"RU","asname":"PSB-AS"}
@@ -458,4 +459,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1795429604,"size":40958,"records":460,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1795521404,"size":41062,"records":461,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
