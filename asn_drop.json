@@ -207,6 +207,8 @@
 {"asn":152327,"rir":"apnic","domain":"rasuhost.com.bd","cc":"BD","asname":"RASUWEBHOST-AS-AP"}
 {"asn":152485,"rir":"apnic","domain":"hosterdaddy.com","cc":"IN","asname":"HOSTER-AS-IN"}
 {"asn":152486,"rir":"apnic","domain":"jdmbroadband.com","cc":"IN","asname":"NTSHIELD-AS-IN"}
+{"asn":152646,"rir":"apnic","domain":"rakinit.com.bd","cc":"BD","asname":"RAKINIT-AS-AP"}
+{"asn":152689,"rir":"apnic","domain":"hasanhost.com.bd","cc":"BD","asname":"HASANHOST-AS-AP"}
 {"asn":154177,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"LIGHT4-AS-AP"}
 {"asn":154206,"rir":"apnic","domain":"cloudie.hk","cc":"HK","asname":"CDN1COM-AS-AP"}
 {"asn":155037,"rir":"apnic","domain":"techmoved.com","cc":"BD","asname":"TECHMOVED-AS-AP"}
@@ -459,4 +461,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1795521404,"size":41062,"records":461,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1795622204,"size":41246,"records":463,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
