@@ -3,8 +3,11 @@
 {"asn":2702,"rir":"arin","domain":"novx-systems","cc":"US","asname":"INTERSERVE"}
 {"asn":3507,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"IPSWAT_TEAM"}
 {"asn":3563,"rir":"arin","domain":"pilot.net","cc":"US","asname":"PILOT-ASN"}
+{"asn":5060,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"DE-KAT"}
+{"asn":5061,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"DRH-RND"}
 {"asn":5065,"rir":"arin","domain":"bunnycommunications.com","cc":"US","asname":"BUNNY-COMMUNICATIONS-GLOBAL"}
 {"asn":6060,"rir":"arin","domain":"management-alliance-group","cc":"US","asname":"MAGI-NET-GW"}
+{"asn":6152,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"OPEN-INTERNET"}
 {"asn":6186,"rir":"arin","domain":"mylir.co.uk","cc":"GB","asname":"GARCIA-ASN"}
 {"asn":6207,"rir":"arin","domain":"bunnycommunications.com","cc":"US","asname":"BUNNY-COMMUNICATIONS"}
 {"asn":6729,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEMENIN-AS"}
@@ -14,10 +17,12 @@
 {"asn":8129,"rir":"arin","domain":"caiwireless.net","cc":"US","asname":"CAIWIRELESS"}
 {"asn":8649,"rir":"ripencc","domain":"zexotek.de","cc":"DE","asname":"Webtraffic"}
 {"asn":9164,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
+{"asn":9504,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"DARKNESS-REIGNS-AS1"}
 {"asn":11527,"rir":"arin","domain":"xproxies.com","cc":"US","asname":"NOVABROADBAND"}
 {"asn":13875,"rir":"arin","domain":"mxfiber.com","cc":"HK","asname":"AS13875-MX-FIBER"}
 {"asn":14576,"rir":"arin","domain":"king-servers.com","cc":"US","asname":"HOSTING-SOLUTIONS"}
 {"asn":14956,"rir":"arin","domain":"cloudzy.com","cc":"IR","asname":"ROUTERHOSTING"}
+{"asn":16087,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"DARKNESS-REIGNS-AS4"}
 {"asn":17447,"rir":"apnic","domain":"net4india.com","cc":"IN","asname":"NET4-IN"}
 {"asn":17612,"rir":"apnic","domain":"rinnai.co.kr","cc":"KR","asname":"RINNAI-AS-KR"}
 {"asn":17994,"rir":"apnic","domain":"appserv.co.nz","cc":"NZ","asname":"SPARK-AS-AP"}
@@ -36,6 +41,7 @@
 {"asn":33042,"rir":"arin","domain":"netiface.co.uk","cc":"GB","asname":"NETIFACE-TORONTO"}
 {"asn":33993,"rir":"ripencc","domain":"stark-industries.solutions","cc":"MD","asname":"UFO-AS"}
 {"asn":34450,"rir":"ripencc","domain":"net-gate.ro","cc":"RO","asname":"WDC-AS"}
+{"asn":34562,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"PROIP-AS"}
 {"asn":34985,"rir":"apnic","domain":"netinnovation.net","cc":"JP","asname":"NETINNOVATIONLLC-AS-AP"}
 {"asn":35478,"rir":"ripencc","domain":"bunea.eu","cc":"RO","asname":"DATACENTER"}
 {"asn":35624,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"SILVERSTAR-AS"}
@@ -82,8 +88,11 @@
 {"asn":48693,"rir":"ripencc","domain":"ntup.net","cc":"RU","asname":"NTSERVICE-AS"}
 {"asn":49418,"rir":"ripencc","domain":"chosting.solutions","cc":"UA","asname":"AS-NETSHIELD"}
 {"asn":49443,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
+{"asn":49471,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"TPK-AS"}
+{"asn":49500,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"DE-KAT-AS2"}
 {"asn":49581,"rir":"ripencc","domain":"tube-hosting.de","cc":"DE","asname":"TUBE-HOSTING"}
 {"asn":50236,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"Vertexlink_Communications"}
+{"asn":50814,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"DE-KAT-AS"}
 {"asn":51045,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"DEMENIN-AS"}
 {"asn":51124,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"ITPLUS-UA-AS"}
 {"asn":51381,"rir":"ripencc","domain":"eliteteam.to","cc":"SC","asname":"ELITETEAM-PEERING-AZ1"}
@@ -91,6 +100,8 @@
 {"asn":51447,"rir":"ripencc","domain":"rootlayer.net","cc":"BD","asname":"ROOTLAYERNET"}
 {"asn":51511,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"TRADE-EXPRESS-AS"}
 {"asn":51722,"rir":"ripencc","domain":"pixoof.com","cc":"TR","asname":"AS-PIXOOF"}
+{"asn":52132,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"DARKNESS-REIGNS-AS2"}
+{"asn":52138,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"DARKNESS-REIGNS-AS3-B"}
 {"asn":52209,"rir":"ripencc","domain":"lordvps.net","cc":"IR","asname":"LORDVPSNLNETWORKNL"}
 {"asn":53958,"rir":"arin","domain":"auproxies.com","cc":"US","asname":"BART-BM"}
 {"asn":54497,"rir":"arin","domain":"lhwebtech.com","cc":"US","asname":"LHWEBTECH-AS"}
@@ -106,7 +117,9 @@
 {"asn":57100,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"WEBNETWORK"}
 {"asn":57415,"rir":"ripencc","domain":"bignet.ua","cc":"UA","asname":"R-TEL-AS"}
 {"asn":57509,"rir":"ripencc","domain":"cloudbs.biz","cc":"BG","asname":"LL-Investment-Ltd"}
+{"asn":57518,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"RBRS-AS2"}
 {"asn":57523,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"changway-as"}
+{"asn":58089,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"DARKNESS-REIGNS-AS3"}
 {"asn":58192,"rir":"ripencc","domain":"lordvps.net","cc":"IR","asname":"DDOS-PROTECTION-GAJNET"}
 {"asn":58854,"rir":"apnic","domain":"kaopuyun.com","cc":"CN","asname":"kaopy"}
 {"asn":58961,"rir":"apnic","domain":"klikindonesia.or.id","cc":"ID","asname":"OPENIP-AS"}
@@ -114,6 +127,8 @@
 {"asn":59651,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"AS-QualityNetwork"}
 {"asn":59683,"rir":"ripencc","domain":"vip-net.net","cc":"RU","asname":"iridatelecom"}
 {"asn":60842,"rir":"ripencc","domain":"62yun.com","cc":"RU","asname":"HUIZE-HOLDINGS-AS"}
+{"asn":61161,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"DR-AS"}
+{"asn":61258,"rir":"ripencc","domain":"darkness-reigns.net","cc":"NL","asname":"RBRS-AS"}
 {"asn":61432,"rir":"ripencc","domain":"link-host.com","cc":"UA","asname":"VAIZ-AS"}
 {"asn":61879,"rir":"lacnic","domain":"aleducacional.com.br","cc":"BR","asname":"América_Latina_Educacional_Adm._e_Serviços_LTDA"}
 {"asn":62206,"rir":"ripencc","domain":"pitline.net","cc":"UA","asname":"PITLINE-AS"}
@@ -469,4 +484,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1795625804,"size":41966,"records":471,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1795697804,"size":43383,"records":486,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
