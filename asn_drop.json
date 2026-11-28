@@ -252,15 +252,12 @@
 {"asn":199457,"rir":"ripencc","domain":"solidserver.io","cc":"HK","asname":"SolidCore"}
 {"asn":199467,"rir":"ripencc","domain":"swissnetwork.io","cc":"IR","asname":"Hossein_Zangooei"}
 {"asn":199804,"rir":"ripencc","domain":"the-first-east-star","cc":"GB","asname":"TFES-AS"}
-{"asn":200010,"rir":"ripencc","domain":"cantech.international","cc":"US","asname":"OLFE"}
 {"asn":200051,"rir":"ripencc","domain":"kyonix.com","cc":"RU","asname":"VPSLab-Networks"}
 {"asn":200130,"rir":"ripencc","domain":"ryzehosting.com","cc":"AT","asname":"SIMON-MARIACHER"}
 {"asn":200373,"rir":"ripencc","domain":"plainproxies.com","cc":"DE","asname":"Drei-K-Tech-GmbH"}
 {"asn":200499,"rir":"ripencc","domain":"enterprises-holding","cc":"GB","asname":"EHL-AS"}
 {"asn":200593,"rir":"ripencc","domain":"pro-spero.ru","cc":"RU","asname":"PROSPERO-AS"}
 {"asn":200671,"rir":"ripencc","domain":"start-building","cc":"GB","asname":"START-AS"}
-{"asn":200699,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_NL"}
-{"asn":200912,"rir":"ripencc","domain":"hypernex.cc","cc":"DE","asname":"KRAUSE-AS"}
 {"asn":201249,"rir":"ripencc","domain":"iprowireless.com","cc":"AL","asname":"IPRO"}
 {"asn":201292,"rir":"ripencc","domain":"agrofirma-aleks","cc":"UA","asname":"AS-AGRO"}
 {"asn":201380,"rir":"ripencc","domain":"excitedmatch.com","cc":"UA","asname":"ALFABISNES-AS"}
@@ -299,7 +296,6 @@
 {"asn":204794,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":204868,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":204872,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
-{"asn":205083,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_FILTER"}
 {"asn":205301,"rir":"ripencc","domain":"kontrast.md","cc":"MD","asname":"Contrust-Solutions"}
 {"asn":205329,"rir":"ripencc","domain":"pfcloud.io","cc":"DE","asname":"Kai-Jung-Chen"}
 {"asn":205397,"rir":"ripencc","domain":"69host.cc","cc":"US","asname":"AS-69HOST"}
@@ -376,7 +372,6 @@
 {"asn":211238,"rir":"ripencc","domain":"zumy.eu","cc":"IN","asname":"DCYBER"}
 {"asn":211443,"rir":"ripencc","domain":"sinoworldwidetrading.com","cc":"HK","asname":"SINOWORLDWIDE"}
 {"asn":211663,"rir":"ripencc","domain":"changway.hk","cc":"HK","asname":"GALEON-AS"}
-{"asn":211720,"rir":"ripencc","domain":"xor.sc","cc":"SC","asname":"DATASHIELD_CH"}
 {"asn":211762,"rir":"ripencc","domain":"fineproxy.org","cc":"RU","asname":"REGION40"}
 {"asn":211860,"rir":"ripencc","domain":"vpsdedic.ru","cc":"RU","asname":"VPSDEDIC-AS"}
 {"asn":211922,"rir":"ripencc","domain":"ipconnect.services","cc":"SC","asname":"IPDISTR"}
@@ -484,4 +479,4 @@
 {"asn":402253,"rir":"arin","domain":"skntelecom.com","cc":"KN","asname":"SKN-NETWORK-1"}
 {"asn":402647,"rir":"arin","domain":"ipswat.com","cc":"US","asname":"NETRONEX_SOLUTIONS"}
 {"asn":403005,"rir":"arin","domain":"blatant.host","cc":"SC","asname":"BLATANTHOST"}
-{"type":"metadata","timestamp":1795701404,"size":43358,"records":486,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
+{"type":"metadata","timestamp":1795863404,"size":42927,"records":481,"copyright":"(c) 2026 The Spamhaus Project SLU","terms":"https://www.spamhaus.org/drop/terms/"}
